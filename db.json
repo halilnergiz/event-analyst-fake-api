@@ -1,0 +1,335 @@
+{
+  "users": [
+    {
+      "username": "User 1",
+      "email": "user1@mail.com",
+      "password": "password123",
+      "id": "e22a"
+    },
+    {
+      "username": "User 2",
+      "email": "user2@mail.com",
+      "password": "password123",
+      "id": "05ff"
+    },
+    {
+      "username": "User 3",
+      "email": "user3@mail.com",
+      "password": "password123",
+      "id": "c310"
+    },
+    {
+      "username": "User 4",
+      "email": "user4@mail.com",
+      "password": "password123",
+      "id": "eb63"
+    },
+    {
+      "username": "User 5",
+      "email": "user5@mail.com",
+      "password": "password123",
+      "id": "e31d"
+    },
+    {
+      "username": "User 6",
+      "email": "user6@mail.com",
+      "password": "password123",
+      "id": "ec84"
+    },
+    {
+      "id": "055e",
+      "username": "test",
+      "email": "test2@mail.com",
+      "password": "passw123"
+    }
+  ],
+  "events": [
+    {
+      "userId": "ec84",
+      "id": "1",
+      "event_name": "Türk Sanat Müziği Kent Koromuzun Konseri 2024",
+      "persons": [
+        {
+          "name": "John",
+          "surname": "Doe",
+          "gender": "Male",
+          "age": 28,
+          "race": "Caucasian"
+        },
+        {
+          "name": "Alice",
+          "surname": "Smith",
+          "gender": "Female",
+          "age": 35,
+          "race": "African American"
+        },
+        {
+          "name": "Bob",
+          "surname": "Jones",
+          "gender": "Male",
+          "age": 22,
+          "race": "Asian"
+        },
+        {
+          "name": "Emma",
+          "surname": "Wilson",
+          "gender": "Female",
+          "age": 40,
+          "race": "Hispanic"
+        },
+        {
+          "name": "Alex",
+          "surname": "Miller",
+          "gender": "Male",
+          "age": 31,
+          "race": "Caucasian"
+        },
+        {
+          "name": "Olivia",
+          "surname": "Davis",
+          "gender": "Female",
+          "age": 26,
+          "race": "African American"
+        },
+        {
+          "name": "Charlie",
+          "surname": "Moore",
+          "gender": "Male",
+          "age": 45,
+          "race": "Asian"
+        },
+        {
+          "name": "Sophia",
+          "surname": "Johnson",
+          "gender": "Female",
+          "age": 33,
+          "race": "Hispanic"
+        },
+        {
+          "name": "James",
+          "surname": "Taylor",
+          "gender": "Male",
+          "age": 29,
+          "race": "Caucasian"
+        },
+        {
+          "name": "Ava",
+          "surname": "Brown",
+          "gender": "Female",
+          "age": 38,
+          "race": "African American"
+        },
+        {
+          "name": "Daniel",
+          "surname": "White",
+          "gender": "Male",
+          "age": 24,
+          "race": "Asian"
+        },
+        {
+          "name": "Mia",
+          "surname": "Anderson",
+          "gender": "Female",
+          "age": 36,
+          "race": "Hispanic"
+        },
+        {
+          "name": "William",
+          "surname": "Martinez",
+          "gender": "Male",
+          "age": 32,
+          "race": "Caucasian"
+        },
+        {
+          "name": "Ella",
+          "surname": "Harris",
+          "gender": "Female",
+          "age": 27,
+          "race": "African American"
+        },
+        {
+          "name": "Liam",
+          "surname": "Clark",
+          "gender": "Male",
+          "age": 39,
+          "race": "Asian"
+        },
+        {
+          "name": "Aria",
+          "surname": "Lewis",
+          "gender": "Female",
+          "age": 28,
+          "race": "Hispanic"
+        },
+        {
+          "name": "Jackson",
+          "surname": "Lee",
+          "gender": "Male",
+          "age": 30,
+          "race": "Caucasian"
+        },
+        {
+          "name": "Grace",
+          "surname": "Baker",
+          "gender": "Female",
+          "age": 41,
+          "race": "African American"
+        },
+        {
+          "name": "Logan",
+          "surname": "Young",
+          "gender": "Male",
+          "age": 25,
+          "race": "Asian"
+        },
+        {
+          "name": "Chloe",
+          "surname": "Garcia",
+          "gender": "Female",
+          "age": 34,
+          "race": "Hispanic"
+        },
+        {
+          "name": "Ethan",
+          "surname": "Allen",
+          "gender": "Male",
+          "age": 31,
+          "race": "Caucasian"
+        },
+        {
+          "name": "Isabella",
+          "surname": "Wright",
+          "gender": "Female",
+          "age": 37,
+          "race": "African American"
+        },
+        {
+          "name": "Mason",
+          "surname": "Perez",
+          "gender": "Male",
+          "age": 23,
+          "race": "Asian"
+        },
+        {
+          "name": "Lily",
+          "surname": "Collins",
+          "gender": "Female",
+          "age": 42,
+          "race": "Hispanic"
+        },
+        {
+          "name": "Jacob",
+          "surname": "Evans",
+          "gender": "Male",
+          "age": 29,
+          "race": "Caucasian"
+        },
+        {
+          "name": "Zoe",
+          "surname": "Russell",
+          "gender": "Female",
+          "age": 30,
+          "race": "African American"
+        },
+        {
+          "name": "Michael",
+          "surname": "Carter",
+          "gender": "Male",
+          "age": 26,
+          "race": "Asian"
+        },
+        {
+          "name": "Avery",
+          "surname": "Barnes",
+          "gender": "Female",
+          "age": 35,
+          "race": "Hispanic"
+        },
+        {
+          "name": "Sofia",
+          "surname": "Thomas",
+          "gender": "Female",
+          "age": 33,
+          "race": "Caucasian"
+        }
+      ]
+    },
+    {
+      "userId": "ec84",
+      "id": "2",
+      "event_name": "2024 G20 Zirvesi",
+      "persons": [
+        {
+          "name": "Grace",
+          "surname": "Baker",
+          "gender": "Female",
+          "age": 41,
+          "race": "South Asian"
+        },
+        {
+          "name": "Logan",
+          "surname": "Young",
+          "gender": "Male",
+          "age": 25,
+          "race": "Southeast Asian"
+        },
+        {
+          "name": "Chloe",
+          "surname": "Garcia",
+          "gender": "Female",
+          "age": 34,
+          "race": "Pacific Islander"
+        }
+      ]
+    },
+    {
+      "userId": "ec84",
+      "id": "23",
+      "event_name": "TRT Sanatçıları Şehir Konserleri",
+      "persons": [
+        {
+          "name": "Logan",
+          "surname": "Young",
+          "gender": "Male",
+          "age": 25,
+          "race": "Southeast Asian"
+        },
+        {
+          "name": "Chloe",
+          "surname": "Garcia",
+          "gender": "Female",
+          "age": 34,
+          "race": "Pacific Islander"
+        },
+        {
+          "name": "Chloe",
+          "surname": "Garcia",
+          "gender": "Female",
+          "age": 34,
+          "race": "Pacific Islander"
+        }
+      ]
+    },
+    {
+      "userId": "e31d",
+      "id": "1",
+      "event_name": "Testt",
+      "persons": [
+        {
+          "name": "Logan",
+          "surname": "Young",
+          "gender": "Male",
+          "age": 25,
+          "race": "Southeast Asian"
+        },
+        {
+          "name": "Chloe",
+          "surname": "Garcia",
+          "gender": "Female",
+          "age": 34,
+          "race": "Pacific Islander"
+        }
+      ]
+    }
+  ]
+}
